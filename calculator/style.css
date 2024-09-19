@@ -1,0 +1,51 @@
+.ui{
+    width: 400px;
+    height: 420px;
+    background-color:black;
+    margin-left: 400px;
+}
+
+#display-bar{
+    margin-left: 42px;
+    height: 68px;
+    margin-top: 25px;
+    width: 80%;
+    pointer-events: none;
+    background-color: black;
+    border: 0;
+    color: white;
+    font-size: xxx-large;
+}
+
+.btn-style{
+    background-color: rgba(128, 128, 128, 0.399);
+    width: 85px;
+    margin-left: 10px;
+    height: 45px;
+    margin-top: 15px;
+    border-radius: 90px;
+    font-size: x-large;
+    color: white;
+}
+.clear-btn{
+    background-color: rgba(255, 0, 0, 0.479);
+    width: 85px;
+    margin-left: 10px;
+    height: 45px;
+    margin-top: 15px;
+    border-radius: 90px;
+    font-size: x-large;
+
+}
+.sp-btn{
+    background-color:orange;
+    width: 85px;
+    margin-left: 10px;
+    height: 45px;
+    margin-top: 15px;
+    border-radius: 90px;
+    font-size: x-large;
+
+}
+
+
